@@ -1,0 +1,2 @@
+D:\Богдан\TestDirectory\C#\ДЗ_1\obj\x86\Debug\homework1.csprojAssemblyReference.cache
+D:\Богдан\TestDirectory\C#\ДЗ_1\obj\x86\Debug\homework1.csproj.CoreCompileInputs.cache
